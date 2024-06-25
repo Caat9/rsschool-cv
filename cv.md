@@ -1,2 +1,1 @@
-feat: update cv.md file
-Work experience: Manager
+Work experience: Manager 
