@@ -11,3 +11,5 @@ Education:
 - QA Engineer, Institute of Professional Education - 2022
 
 - Data analyst, School of Data Analysis - 2022 
+
+Work experience: Manager 
