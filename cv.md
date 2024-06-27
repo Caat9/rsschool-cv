@@ -13,3 +13,5 @@ Education:
 - Data analyst, School of Data Analysis - 2022 
 
 Work experience: Manager 
+
+Soft skills: Scheduling, Analytical thinking, Compliance
